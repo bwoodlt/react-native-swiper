@@ -1,3 +1,5 @@
+- [1.7.0-dev]
+  - Changed lifecycle to use UNSAFE
 - [1.6.0-dev]
   - ViewPagerAndroid: react-native => @react-native-community/viewpager
   - add TypeScript typing of containerStyle
